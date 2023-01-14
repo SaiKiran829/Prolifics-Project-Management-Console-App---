@@ -1,0 +1,108 @@
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ProlificsProject1122\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sai Kiran\Desktop\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Users\SPasapula\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+C:\Users\SPasapula\Desktop\Prolifics\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\nunit.engine.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\nunit.engine.api.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\nunit.engine.core.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+D:\Downloads\ProlificsProjectManagement\ProlificsProjectManagement\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\nunit.engine.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\nunit.engine.api.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\nunit.engine.core.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\testcentric.engine.metadata.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+c:\Users\SPasapula\Downloads\Prolifics-Project-Management-Console-App_final-master\Prolifics-Project-Management-Console-App_final-master\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\nunit.engine.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\nunit.engine.api.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\nunit.engine.core.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\PPM.Model.deps.json
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\PPM.Model.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\bin\Debug\net7.0\PPM.Model.pdb
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.AssemblyReference.cache
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\PPM.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfoInputs.cache
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\PPM.Model.AssemblyInfo.cs
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\PPM.Model.csproj.CoreCompileInputs.cache
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\PPM.Model.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\refint\PPM.Model.dll
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\PPM.Model.pdb
+D:\Downloads\PPMPROLIFICS\PPM.ConsoleApp-master\PPM.ConsoleApp-master\PPM.Model\obj\Debug\net7.0\ref\PPM.Model.dll
